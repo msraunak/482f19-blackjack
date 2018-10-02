@@ -1,10 +1,8 @@
-# asgn1-482f18-blackjack
-Simple Blackjack App in Android
-# Assignment 01: A Simplified Blackjack Game
-# Assigned: Thurs, Sep 13, 2018
-# Due: Design – Thurs, Sep 27, 2018 5pm
-# Code and Demo: Thurs, Oct 04, 2018 5pm	CS 482: Software Engineering
-# Loyola University Maryland, Fall 2018
+## Assignment 01: A Simplified Blackjack Game
+## Assigned: Thurs, Sep 13, 2018
+## Due: Design – Thurs, Sep 27, 2018 5pm
+## Code and Demo: Thurs, Oct 04, 2018 5pm	CS 482: Software Engineering
+## Loyola University Maryland, Fall 2018
 
 _The Program:_  This program is aimed at involving everyone in the class to get started on app development using android studio. Another objective is to take stock of and revitalize some of your coding practices including your program design and coding habits. Special attention will be given to identifier naming, commenting etc. You are going to write javadoc style comments and generate javadoc of your program as well. Follow the coding-convention and commenting guidelines that I have made available in Moodle. 
 You will develop ‘’SimpleBlackJack” as an Android App in Java that allows the users to play a game of simplified BlackJack. The player of the SimpleBlackJack will try to get as close to 21 as possible, without going over (called bust). The BlackJack player’s objective is to beat the dealer by either outscoring the dealer or having the dealer go bust. Blackjack may be played with one or two decks of 52-card decks. Here are some more details of the requirements:
