@@ -1,7 +1,8 @@
 ## Assignment 01: A Simplified Blackjack Game
 ## Assigned: Thurs, Sep 13, 2018
 ## Due: Design – Thurs, Sep 27, 2018 5pm
-## Code and Demo: Thurs, Oct 04, 2018 5pm	CS 482: Software Engineering
+## Code and Demo: Sat, Oct 06, 2018 11:59pm	- UPDATED
+## CS 482: Software Engineering
 ## Loyola University Maryland, Fall 2018
 
 _The Program:_  This program is aimed at involving everyone in the class to get started on app development using android studio. Another objective is to take stock of and revitalize some of your coding practices including your program design and coding habits. Special attention will be given to identifier naming, commenting etc. You are going to write javadoc style comments and generate javadoc of your program as well. Follow the coding-convention and commenting guidelines that I have made available in Moodle. 
@@ -46,6 +47,6 @@ _Notes:_
   *	Javadoc style comments:  				15
   * Class diagram and description of your design:		20
 
-*	Assignment Duration: Even though this program is relatively simple, you are being given some extra-time to do this assignment because there is a learning-time involved picking up android studio and app development. Do not wait till the last week to do this assignment. Start working on it right away. 
+*	Assignment Duration: Even though this program is relatively simple, you are being given some extra-time to do this assignment because there is a learning-time involved picking up android studio and app development. _Do not wait till the last week to do this assignment_. _Start working on it right away_. 
 
 *	Late Submission: Following the general principle specified in the Syllabus, for this assignment, a late penalty of 10% will be applied if submitted within 24 hours of the due date (Fri, Oct 05). If you submit after 24 hours of the due date but within 72 hours (Sun, Oct 07), you will receive a penalty of 20%. 
