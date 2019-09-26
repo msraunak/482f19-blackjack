@@ -53,10 +53,10 @@ What you will need to do:
 1. Think about the program before starting to code. What will be the underlying model of your
 App. This includes identifying the classes you will need and how they will relate to each other.
 2. __Coding Documentation and Design__
-a. Document your program with Javadoc style comments for field names, methods and
+2.1 Document your program with Javadoc style comments for field names, methods and
 classes.
-b. Use descriptive and meaningful identifier names (variables, methods and classes).
-c. Have a reasonable design. Do not use a monolithic class to do everything. Ideally you
+2.2 Use descriptive and meaningful identifier names (variables, methods and classes).
+2.3 Have a reasonable design. Do not use a monolithic class to do everything. Ideally you
 should be using a model-view-controller (MVC) design pattern.
 
 3. __Collaboration and Submission__
