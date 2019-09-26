@@ -1,4 +1,4 @@
-## Assignment 01: A Simplified Blackjack Game
+## Assignment 02: A Simplified Blackjack Game
 ## Assigned: Tue, Sep 17, 2019
 ## Due: Mon, Sep 30, 2019 11:59pm
 
