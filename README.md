@@ -25,9 +25,10 @@ counted as 10. The other cards will be counted at pip value.
 or Jack), and it outranks all other 21-point hand.
 5. The dealer will give two cards to the player and two cards to herself. Both the player’s and
 the dealer’s card-pair will be shown face-up.
-a. If the player has a blackjack, then the player wins the game.
-b. If the dealer has a blackjack, then the player loses the game.
-c. If both the player and the dealer have blackjacks, then it is a tie.
+5.1. If the player has a blackjack, then the player wins the game.
+5.2. If the dealer has a blackjack, then the player loses the game.
+5.3. If both the player and the dealer have blackjacks, then it is a tie.
+
 6. The player will have the first turn. He can go for Hit or Stop.
 7. Hit: Player touches a button title Hit, which draws another card. If this card causes the
 player&#39;s total points to exceed 21 (known as &quot;breaking&quot; or &quot;busting&quot;) then he loses. A
@@ -41,9 +42,9 @@ will become the dealer’s (i.e., the Computer’s) round.
 pressing of Hit button is needed). The dealer’s objective is, of course, to win and to make
 you lose. Once the dealer has either gone bust, stopped or have drawn all three cards, the
 app will show result of the game, which will be one of the following three scenarios:
-10.1 The Player has won
-10.2 The Dealer has won
-10.3 The round is a Tie
+10.1. The Player has won
+10.2. The Dealer has won
+10.3. The round is a Tie
 
 11. SimpleBlackJack will have a “New Game” button that starts a new game. The player can hit
 the “New Game” button at any time. If this button is hit in the middle of the game, it will
@@ -53,10 +54,10 @@ What you will need to do:
 1. Think about the program before starting to code. What will be the underlying model of your
 App. This includes identifying the classes you will need and how they will relate to each other.
 2. __Coding Documentation and Design__
-2.1 Document your program with Javadoc style comments for field names, methods and
+2.1. Document your program with Javadoc style comments for field names, methods and
 classes.
-2.2 Use descriptive and meaningful identifier names (variables, methods and classes).
-2.3 Have a reasonable design. Do not use a monolithic class to do everything. Ideally you
+2.2. Use descriptive and meaningful identifier names (variables, methods and classes).
+2.3. Have a reasonable design. Do not use a monolithic class to do everything. Ideally you
 should be using a model-view-controller (MVC) design pattern.
 
 3. __Collaboration and Submission__
